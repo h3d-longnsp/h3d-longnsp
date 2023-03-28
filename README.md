@@ -43,6 +43,6 @@ I'm a last year university student. In my free time, I love to explore new techn
 </p>
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=h3d-longnsp&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=h3d-longnsp&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=h3d-longnsp&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=h3d-longnsp&theme=gruvbox&hide_border=true&include_all_commits=true&show_icons=true&count_private=true&bg_color=00000000)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=h3d-longnsp&theme=synthwave&hide_border=true&bg_color=00000000)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=h3d-longnsp&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
